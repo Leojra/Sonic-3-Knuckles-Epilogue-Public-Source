@@ -85,10 +85,10 @@ Thanks for checking this out! :)
 ### Red Miso Studios Staff
 
 - Code: TheBlad768.
-- Music: FoxConED, N-BAH, mrcat-pixel.
-- Graphics: mrcat-pixel, TheBlad768, FoxConED, tisakotu, Dolphman.
-- Beta testers: Narcologer, FoxConED, mrcat-pixel, tisakotu, Vladikcomper.
-- English translation: mrcat-pixel, Hotmilk.
+- Music: FoxConED, N-BAH, pixelcat.
+- Graphics: pixelcat, TheBlad768, FoxConED, tisakotu, Dolphman.
+- Beta testers: Narcologer, FoxConED, pixelcat, tisakotu, Vladikcomper.
+- English translation: pixelcat, Hotmilk.
 
 
 # Usage of parts made by Red Miso Studios
